@@ -15,6 +15,10 @@ const galleryImages = [
         src: "./assets/gallery/image3.jpg",
         alt: "Thumbnail Image 3"
     },
+    {
+        src: "./assets/gallery/img1.png",
+        alt: "Thumbnail Image 4"
+    },
 ];
 
 const products = [
