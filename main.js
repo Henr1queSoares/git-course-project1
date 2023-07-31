@@ -227,7 +227,7 @@ function populateProducts(productList) {
         productElm.append(productImage);
         productElm.append(productDetails);
 
-        // Add complete individual product to the product section.
+        // Add complete individual product to the product section
         productsSection.append(productElm);
     });
 
